@@ -1,7 +1,6 @@
 ---
 title: SVD的微分推導
 mathjax: false
-password: d64aeb91367f
 cover: /cover/wallhaven-4gmgkd.jpg
 categories:
   - - 科研
@@ -361,7 +360,8 @@ X_{n \times d} =
 
 # 總結
 
-基本上，如果能從頭看到這邊應該就已經腦死的差不多了。之後我投的paper有成功上岸我再來這邊分享。
+首先我要恭喜有成功看完這篇文章並且沒有腦死的各位。
+之後我投的paper有成功上岸，我會再寫一篇文章來分享。
 
 # References
 
