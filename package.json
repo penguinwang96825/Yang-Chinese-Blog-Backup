@@ -12,6 +12,7 @@
     "version": "6.3.0"
   },
   "dependencies": {
+    "glob": "^7.2.0",
     "hexo": "^6.3.0",
     "hexo-abbrlink": "^2.2.1",
     "hexo-algoliasearch": "^1.0.0",

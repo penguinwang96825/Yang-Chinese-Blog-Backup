@@ -82,7 +82,7 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
+favicon: /img/favicon-yang.webp
 
 # Avatar (頭像)
 avatar:
@@ -680,7 +680,7 @@ aside:
       link: https://github.com/penguinwang96825
   card_announcement:
     enable: true
-    content: 準備飛往英國攻讀CS博士學位！！！
+    content: 已成為英國可憐社畜
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all

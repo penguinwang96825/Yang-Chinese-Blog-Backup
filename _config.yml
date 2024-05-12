@@ -5,7 +5,7 @@
 # Site
 title: 汪揚中的一條船
 subtitle: ''
-description: '現在這麼苦是因為太順的路我不想走'
+description: '真正的聰明，是懂的裝傻'
 keywords:
 author: 汪揚
 language: zh-TW
@@ -44,6 +44,9 @@ external_link:
 filename_case: 0
 render_drafts: false
 post_asset_folder: true
+marked:
+  prependRoot: true
+  postAsset: true
 relative_link: false
 future: true
 highlight:
